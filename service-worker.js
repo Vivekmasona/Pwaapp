@@ -6,8 +6,8 @@ const urlsToCache = [
     '/manifest.json',
     '/service-worker.js',
     'https://vivekfy.vercel.app/audio?url=https://youtu.be/FkFvdukWpAI?si=19uKbsSGnPsaaAjr',
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png'
+    'https://vfy.netlify.app/img/nf.png',
+    'https://vfy.netlify.app/img/nf.png'
 ];
 
 self.addEventListener('install', event => {
