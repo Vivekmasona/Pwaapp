@@ -5,7 +5,7 @@ const urlsToCache = [
     '/app.js',
     '/manifest.json',
     '/service-worker.js',
-    '/your-audio-file.mp3',
+    'https://vivekfy.vercel.app/audio?url=https://youtu.be/FkFvdukWpAI?si=19uKbsSGnPsaaAjr',
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png'
 ];
