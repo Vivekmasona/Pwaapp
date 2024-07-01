@@ -1,5 +1,5 @@
 {
-    "name": "Background Audio Web App",
+    "name": "Backgroundapp",
     "short_name": "AudioApp",
     "description": "A web app that continues to play audio in the background",
     "start_url": "/index.html",
@@ -8,12 +8,12 @@
     "theme_color": "#000000",
     "icons": [
         {
-            "src": "icons/icon-192x192.png",
+            "src": "https://vfy.netlify.app/img/nf.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/icon-512x512.png",
+            "src": "https://vfy.netlify.app/img/nf.png",
             "sizes": "512x512",
             "type": "image/png"
         }
