@@ -5,8 +5,7 @@ const urlsToCache = [
     '/app.js',
     '/manifest.json',
     '/service-worker.js',
-    'https://vivekfy.vercel.app/audio?url=https://youtu.be/FkFvdukWpAI?si=19uKbsSGnPsaaAjr',
-    'https://vfy.netlify.app/img/nf.png',
+    'https://vivekfy.vercel.app/audio?url=https://youtu.be/FkFvdukWpAI',
     'https://vfy.netlify.app/img/nf.png'
 ];
 
