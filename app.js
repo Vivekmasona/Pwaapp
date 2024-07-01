@@ -17,7 +17,9 @@ document.addEventListener('visibilitychange', () => {
     if (document.hidden) {
         console.log('Page is hidden, but audio continues to play');
         // Ensure audio continues to play when the page is hidden
-        audioElement.play();
+        audioElement.play().catch(error => {
+            console.log('Error playing audio in background:', error);
+        });
     } else {
         console.log('Page is visible');
         // Optionally perform actions when the page becomes visible again
