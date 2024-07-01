@@ -1,5 +1,5 @@
 {
-    "name": "Backgroundapp",
+    "name": "Background Audio Web App",
     "short_name": "AudioApp",
     "description": "A web app that continues to play audio in the background",
     "start_url": "/index.html",
